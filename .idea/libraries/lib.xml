@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-dao-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-common-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-sqlmap-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta-oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
